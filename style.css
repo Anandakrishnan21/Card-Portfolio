@@ -108,3 +108,13 @@ a{
 .maindiv:hover ul>li:nth-child(4) a{
     transition-delay: 0.3s;
 }
+
+/* resposive */
+@media (max-width:576px){
+    .maindiv{
+        position: relative;
+        width: 300px;
+        height: 400px;
+    }
+}
+    
